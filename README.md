@@ -6,15 +6,15 @@
 
 ```
 .
-├── ython_homework       # 教材配套练习（个人代码实现）
+├── python_homework       # 教材配套练习（个人代码实现）
 └── python_notebook      # 学习笔记（指令、基础与进阶知识）
 ```
 
 ### `python_homework`
-> 注：目录名为 `ython_homework`（原样保留），实际为 Python 课后习题及教材示例的本地练习代码。
+> 注：目录名为 `python_homework`（原样保留），实际为 Python 课后习题及教材示例的本地练习代码。
 
 - 按章节/主题组织
-- 每个 `.py` 文件对应一个独立练习
+- 每个 `.ipynb` 文件对应一个独立练习
 - 包含运行示例和简单注释
 
 ### `python_notebook`
@@ -28,12 +28,12 @@
 
 1. 克隆本仓库
    ```bash
-   git clone https://github.com/你的用户名/你的仓库名.git
+   git clone https://github.com/Nidhogg-max/python_lab.git
    ```
 2. 运行练习代码
    ```bash
-   cd ython_homework
-   python 某个练习.py
+   cd python_homework
+   python 某个练习.ipynb
    ```
 3. 查看笔记
    - 本地启动 Jupyter Notebook：`jupyter notebook`
