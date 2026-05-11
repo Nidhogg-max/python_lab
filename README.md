@@ -10,7 +10,7 @@
 └── python_notebook      # 学习笔记（指令、基础与进阶知识）
 ```
 
-### `ython_homework`
+### `python_homework`
 > 注：目录名为 `ython_homework`（原样保留），实际为 Python 课后习题及教材示例的本地练习代码。
 
 - 按章节/主题组织
